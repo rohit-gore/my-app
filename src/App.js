@@ -5,8 +5,8 @@ const App = () => {
   const [counter, setcounter] = useState(0);
 
   useEffect(() => {
-    setcounter(100);
-  },[]);
+    alert("Counter changed to " + counter);
+  },[counter]);
 
   return (
     <div className="App">
