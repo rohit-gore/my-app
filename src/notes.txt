@@ -1,0 +1,4 @@
+********* To start the app ***********
+1. First open a new terminal.
+2. Then, cd to my-app.
+3. Then write the cmd 'run start' --> the app will start in browser.
